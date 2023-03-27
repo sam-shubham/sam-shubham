@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 I am a Full stack Web Developer and Cross Platform Mobile Apps developer with numerous projects and recognizations and certifications from top techs.<br>I have experience in creating responsive and dynamic websites, as well as mobile applications for both iOS and Android.<br>I am skilled in a variety of programming languages and frameworks, including HTML, CSS, Python JavaScript, React , Next.js, and Node js. Express.js , React Native and too fluent with MongoDB.
 
@@ -16,13 +15,11 @@ I am a Full stack Web Developer and Cross Platform Mobile Apps developer with nu
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://visitcount.itsvg.in/api?id=sam-shubham&icon=8&color=11)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/itzsamshubham                ) 
 
- 
+  
+
 
 
 <!--
