@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./header.png" alt="Header">
+</p>
+
 # 💫 About Me:
 I am a Full stack Web Developer and Cross Platform Mobile Apps developer with numerous projects and recognizations and certifications from top techs.<br>I have experience in creating responsive and dynamic websites, as well as mobile applications for both iOS and Android.<br>I am skilled in a variety of programming languages and frameworks, including HTML, CSS, Python JavaScript, React , Next.js, and Node js. Express.js , React Native and too fluent with MongoDB.
 
