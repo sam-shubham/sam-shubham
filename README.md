@@ -2,8 +2,6 @@
   <img src="./headerNew.png" alt="Sam Shubham">
 </p>
 
-# Sam Shubham
-
 Building apps people use & backend systems that scale.  
 Full-Stack • Mobile • AI • DevOps
 
