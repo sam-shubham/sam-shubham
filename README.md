@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.png" alt="Sam Shubham">
+  <img src="./headerNew.png" alt="Sam Shubham">
 </p>
 
 # Sam Shubham
